@@ -1,0 +1,57 @@
+
+.seccion-textos {
+  display: inline-block;
+  width: 30%;
+  margin-right: 20%;
+}
+
+.izq {
+  float: left;
+}
+
+.der {
+  float: right;
+  margin-left: 30%;
+}
+
+.imgV {
+  display: inline-block;
+  position: relative;
+  padding: 0;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.tamaño {
+  width: 50%;
+  display: inline-block;
+  clear: both;
+}
+
+.tamaño img {
+  width: 100%;
+}
+
+.parrafos {
+  font-size: 17px;
+}
+
+.alinearI {
+  margin-left: 14%;
+}
+
+.alinearD {
+  margin-right: 14%;
+}
+.seccion-textos>p:first-child {
+  margin-top: 45%; 
+  letter-spacing: 0.2em;
+}
+.seccion-textos>h3{
+  font-size: 25px;
+  letter-spacing: 0.2em;
+}
+
+#seccion3 {
+  padding-right: 0;
+}
